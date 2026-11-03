@@ -30,8 +30,8 @@ Este procedimiento se repetirá durante 32 iteraciones.
 
 ### Entradas funcionales
 
-- Multiplicando: 32 bits sin signo.
-- Multiplicador: 32 bits sin signo.
+- Multiplicando: 32 bits sin signo. (preguntar al profe)
+- Multiplicador: 32 bits sin signo.(preguntar al profe)
 - Solicitud de inicio de operación.
 - Reloj del sistema.
 - Señal de reinicio.
