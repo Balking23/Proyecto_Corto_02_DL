@@ -6,7 +6,7 @@ module m6_datapath_multiplicador (
     input  logic        clk,
     input  logic        rst,
 
-    // Operand os de entrada
+    // Operandos de entrada
     input  logic [31:0] multiplicando_in,
     input  logic [31:0] multiplicador_in,
 
